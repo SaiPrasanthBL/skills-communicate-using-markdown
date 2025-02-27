@@ -1,4 +1,9 @@
 ## Header
+```python
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
